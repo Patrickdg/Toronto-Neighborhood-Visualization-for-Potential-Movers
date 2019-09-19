@@ -3,7 +3,7 @@ Visualization of Toronto Neighborhoods based on venue type, age demographic, inc
 
 This project is prepared as a submission for the final project of the Applied Data Science specialization offered by Coursera ([more information on the program here](https://www.coursera.org/specializations/applied-data-science)). 
 
-**The final report can be found [here]**(https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Visualizations%20for%20Potential%20Movers%20-%20Applied%20DS%20Capstone%20Report.pdf), and the **final presentation can be found [here]**(https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Analysis%20Presentation.pdf).
+The final report can be found [here](https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Visualizations%20for%20Potential%20Movers%20-%20Applied%20DS%20Capstone%20Report.pdf), and the final presentation can be found [here](https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Analysis%20Presentation.pdf).
 
 In addition, the final visualization tools can be found [here](https://nbviewer.jupyter.org/github/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Neighborhood%20Visualization%20Maps.ipynb) with a separate version containing all source analysis code [here](https://nbviewer.jupyter.org/github/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Neighborhood%20Visualizations%20-%20Toronto%2C%20Canada.ipynb).  
 

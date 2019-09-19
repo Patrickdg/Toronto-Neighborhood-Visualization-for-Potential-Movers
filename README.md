@@ -3,6 +3,8 @@ Visualization of Toronto Neighborhoods based on venue type, age demographic, inc
 
 This project is prepared as a submission for the final project of the Applied Data Science specialization offered by Coursera ([more information on the program here](https://www.coursera.org/specializations/applied-data-science)). 
 
+The final report can be found [here](https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Visualizations%20for%20Potential%20Movers%20-%20Applied%20DS%20Capstone%20Report.pdf), and the final presentation can be found [here](https://github.com/Patrickdg/Toronto-Neighborhood-Visualization-for-Potential-Movers/blob/master/Toronto%20Neighborhood%20Analysis%20Presentation.pdf). 
+
 ## Problem Statement
 For potential movers to new cities, the task of conducting research on the characteristics of neighborhoods can be time-consuming and difficult. However, this task is critical to long-term satisfaction in a new resident's place of stay, especially in a diverse city like Toronto, Ontario where neighborhoods can differ wildly and appeal to very different demographics. In addition, the difficulty of conducting such research is only added on to the overall stress and workload of planning the move, its logistics, as well as the emotional aspect of leaving your old city and life behind. 
 
